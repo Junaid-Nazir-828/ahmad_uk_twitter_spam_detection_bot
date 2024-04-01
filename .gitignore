@@ -1,0 +1,7 @@
+.env
+__pycache__/
+*.html
+**/build/
+**/dist/
+**/*.exe
+**/*.csv

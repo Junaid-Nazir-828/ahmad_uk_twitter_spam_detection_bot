@@ -1,0 +1,66 @@
+{
+    "data": [
+        {
+            "created_at": "2024-03-26T15:56:21.000Z",
+            "edit_history_tweet_ids": [
+                "1772653829059699175"
+            ],
+            "id": "1772653829059699175",
+            "referenced_tweets": [
+                {
+                    "id": "1771687739903164873",
+                    "type": "replied_to"
+                }
+            ],
+            "text": "@AbdulRehman0292 @SpamGuardian"
+        },
+        {
+            "created_at": "2024-03-25T17:15:47.000Z",
+            "edit_history_tweet_ids": [
+                "1772311429778985325"
+            ],
+            "id": "1772311429778985325",
+            "referenced_tweets": [
+                {
+                    "id": "1772206368977551605",
+                    "type": "replied_to"
+                }
+            ],
+            "text": "@AbdulRehman0292 @SpamGuardian"
+        },
+        {
+            "created_at": "2024-03-07T14:24:36.000Z",
+            "edit_history_tweet_ids": [
+                "1765745369206653385"
+            ],
+            "id": "1765745369206653385",
+            "text": "Win Big with Big Dreams  @AlcantarJu59178 @WesleyGullion @Spamdetect64330 @KathlineW75987 @NasanbatNy54365 @waynejarvisss @SToyran9470 @moamoa01256 @JisunChai @VishalSain56887  https://t.co/Onpt3IUsLa"
+        }
+    ],
+    "includes": {
+        "tweets": [
+            {
+                "created_at": "2024-03-23T23:57:28.000Z",
+                "edit_history_tweet_ids": [
+                    "1771687739903164873"
+                ],
+                "id": "1771687739903164873",
+                "text": "FBR has extended the scope of POS (point of sale) machines to schools, hotels, marriage halls, beauty parlours &amp; clubs \u2705\u2705\n\nPOS machines link businesses to our tax system, 
+                        making sure businesses pay their taxes.\n\nLast PDM govt was not serious about POS implementation and back\u2026 https://t.co/jztBw4SsWB https://t.co/VsRqYNBYyq"
+            },
+            {
+                "created_at": "2024-03-25T10:18:19.000Z",
+                "edit_history_tweet_ids": [
+                    "1772204657554722946",
+                    "1772206368977551605"
+                ],
+                "id": "1772206368977551605",
+                "text": "International LNG spot prices are expected to be between $7-9/mmbtu in coming months from peak of $70/mmbtu in 2021/2022.\n\nThese will be lower than \ud83c\uddf5\ud83c\uddf0\ud83c\uddf5\ud83c\uddf0 long term contract with Qatar signed in 2015-2016.\n\nWith international recession in full play, lets not criticize long term\u2026 https://t.co/4yGj2aVjVE"
+            }
+        ]
+    },
+    "meta": {
+        "newest_id": "1772653829059699175",
+        "result_count": 3
+    }
+}
